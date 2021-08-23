@@ -1,0 +1,19 @@
+{
+  "name": "portfolio_website_reactjs",
+  "version": "1.0.0",
+  "description": "Portfolio/Resume Website using React JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naaficodes/Portfolio_Website_ReactJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naaficodes/Portfolio_Website_ReactJS/issues"
+  },
+  "homepage": "https://github.com/naaficodes/Portfolio_Website_ReactJS#readme"
+}
